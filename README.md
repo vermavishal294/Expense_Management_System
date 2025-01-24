@@ -1,10 +1,12 @@
-Expense Management System
+# Expense Management System
 A Python-based application integrated with MySQL to help users manage and track their expenses. This system allows users to record, categorize, and analyze their expenses, providing useful insights and reports to better manage personal finances.
 
 Features
 Add/Edit/Delete Expenses: Manage your expenses by adding new entries, editing existing ones, or deleting them.
 Categorize Expenses: Expenses can be categorized (e.g., Food, Transportation, Utilities) to help analyze spending patterns.
 View Reports: Generate expense reports for specific periods (e.g., weekly, monthly).
+
+
 Export Data: Export all expense data to a CSV file for external analysis or backup.
 MySQL Integration: The system uses MySQL as a database to store and manage all expense data securely.
 Requirements
